@@ -121,7 +121,7 @@ color: #fff;
 
 .menu-bg {
 	position: fixed;
-  background: #f91791;
+  background: #1771f9;
   pointer-events: none;
   transition: .3s;
   right: 50px;
@@ -216,7 +216,7 @@ color: #fff;
 }
 
 strong {
-	color: #f91791
+	color: #1771f9
 }
 
 .clear-fix {
@@ -231,8 +231,8 @@ a:visited{
 
 .button {
 	font-family: "Abril Fatface", serif;
-	color: #f91791;
-	border: 1px solid #f91791;
+	color: #1771f9;
+	border: 1px solid #1771f9;
 	-moz-border-radius: 3px;
 	-webkit-border-radius: 3px;
 	border-radius: 3px;
@@ -253,8 +253,8 @@ a:visited{
 
 .button:before {
 	opacity: 0;
-	/*color: #f91791;*/
-	background: #f91791;
+	/*color: #1771f9;*/
+	background: #1771f9;
 	content: '';
 	position: absolute;
 	top: 0;
@@ -271,7 +271,7 @@ a:visited{
 }
 
 .button:hover {
-	background: #f91791;
+	background: #1771f9;
 	opacity: 1;
 	color: #fff;
 	-moz-transition: all 0.5s;
@@ -353,7 +353,7 @@ a:visited{
 }
 
 ::selection {
-	background-color: #f91791;
+	background-color: #1771f9;
 	color: #fff;
 }
 
@@ -427,7 +427,7 @@ a:visited{
 }
 
 #welcome .welcome h1 strong {
-	color: #f91791;
+	color: #1771f9;
 	font-family: "Audrey-Normal", monospace;
 	text-transform: uppercase;
 	z-index: 0;
@@ -523,7 +523,7 @@ body > section > .holder > .title h2:after {
 	margin-left: 10px;
 	text-align: left;
 	font-family: 'Abril Fatface', serif;
-	color: #f91791;
+	color: #1771f9;
 	position: absolute;
 	/*font-weight: bold;*/
 	opacity: 0;
@@ -771,7 +771,7 @@ h4{
 	position: absolute;
 	content: '';
 	height: 2px;
-	background-color: #f91791;
+	background-color: #1771f9;
 	width: 100%;
 	-moz-transition: width 0.5s;
 	-o-transition: width 0.5s;
@@ -786,11 +786,11 @@ h4{
 
 #about .tabs-menu .current a {
 	text-align: center;
-	color: #f91791;
+	color: #1771f9;
 }
 
 #about .title h2:after {
-	background-color: #f91791;
+	background-color: #1771f9;
 }
 #about .tabs-menu li a {
 	text-align: center;
@@ -1595,7 +1595,7 @@ h3 {
 	text-align: center;
 	font-family: 'Abril Fatface', monospace;
 	font-size: 30px;
-	color: #f91791;
+	color: #1771f9;
 }
 
 .experience .row .brief .position {
@@ -1678,7 +1678,7 @@ h3 {
 .education .row .brief .name {
 	font-family: 'Abril Fatface', monospace;
 	font-size: 30px;
-	color: #f91791;
+	color: #1771f9;
 }
 
 .education .row .brief .position {
@@ -1732,7 +1732,7 @@ h3 {
 /*#testimonials  .testimonial {
 text-align: center;
 line-height: 34px;
-color: #f91791;
+color: #1771f9;
 width: 100%;
 }*/
 #testimonials  .testimonial .quote {
@@ -1745,7 +1745,7 @@ width: 100%;
 	text-align: center;
 }
 #testimonials .testimonial .client-info {
-	color: #f91791;
+	color: #1771f9;
 	font-size: 28px;
 	width: 100%;
 	text-align: center;
@@ -1813,7 +1813,7 @@ width: 100%;
 }
 
 #portfolio .title h2:after {
-	background-color: #f91791;
+	background-color: #1771f9;
 }
 
 #portfolio:after {
@@ -1861,7 +1861,7 @@ width: 100%;
 	font-family: "Abril Fatface", serif;
 	background-color: #fff;
 	color: #000;
-	border: 1px solid #f91791;
+	border: 1px solid #1771f9;
 	-moz-border-radius: 3px;
 	-webkit-border-radius: 3px;
 	border-radius: 3px;
@@ -1882,7 +1882,7 @@ width: 100%;
 #resume button:before {
 	filter: progid:DXImageTransform .Microsoft .Alpha(Opacity=0);
 	opacity: 0;
-	background: #f91791;
+	background: #1771f9;
 	content: '';
 	position: absolute;
 	top: 0;
@@ -1975,7 +1975,7 @@ justify-content: space-around;
 	font-size: 50px;
 	color: #000;
 	padding-top: 80px;
-	background: #f91791;
+	background: #1771f9;
 	position: absolute;
 	top: 10px;
 	left: 10px;
@@ -1992,7 +1992,7 @@ justify-content: space-around;
 }
 /*.toggles:active{
 color: #fff;
-background-color: #f91791;
+background-color: #1771f9;
 border: 1px solid #000;
 }*/
 .project button{
@@ -2016,7 +2016,7 @@ border: 1px solid #000;
 
 #resume button:hover {
 	color: #fff;
-	background-color: #f91791;
+	background-color: #1771f9;
 	border: 1px solid #000;
 	-moz-transition: all 0.5s;
 	-o-transition: all 0.5s;
@@ -2116,7 +2116,7 @@ border: 1px solid #000;
 }
 .pop1 > h6 {
 	padding:50px 30px 20px 30px;
-	color: #f91791;
+	color: #1771f9;
 	font-size:50px;
 }
 
@@ -2139,7 +2139,7 @@ border: 1px solid #000;
 	-webkit-border-radius:100px;
 	-moz-border-radius:100px;
 	border-radius:100px;
-	color: #f91791;
+	color: #1771f9;
 	padding:6px 0px 0px 9px;
 	width:30px;
 	height:30px;
@@ -2147,7 +2147,7 @@ border: 1px solid #000;
 
 span1:hover{
 	color: yellow;
-	text-shadow: 4px 4px 4px #f91791;
+	text-shadow: 4px 4px 4px #1771f9;
 }
 
 .gal_btn2{
@@ -2215,7 +2215,7 @@ span1:hover{
 }
 .pop2 > h6 {
 	padding:50px 30px 20px 30px;
-	color: #f91791;
+	color: #1771f9;
 	font-size:50px;
 }
 
@@ -2239,14 +2239,14 @@ span1:hover{
 	-webkit-border-radius:100px;
 	-moz-border-radius:100px;
 	border-radius:100px;
-	color: #f91791;
+	color: #1771f9;
 	padding:6px 0px 0px 9px;
 	width:30px;
 	height:30px;
 }
 span2:hover{
 	color: yellow;
-	text-shadow: 4px 2px 4px #f91791;
+	text-shadow: 4px 2px 4px #1771f9;
 }
 .gal_btn3{
 	font-family: 'Abril Fatface', serif;
@@ -2314,7 +2314,7 @@ span2:hover{
 }
 .pop3 > h6 {
 	padding:50px 30px 20px 30px;
-	color: #f91791;
+	color: #1771f9;
 	font-size:50px;
 }
 
@@ -2337,14 +2337,14 @@ span2:hover{
 	-webkit-border-radius:100px;
 	-moz-border-radius:100px;
 	border-radius:100px;
-	color: #f91791;
+	color: #1771f9;
 	padding:6px 0px 0px 9px;
 	width:30px;
 	height:30px;
 }
 span3:hover{
 	color: yellow;
-	text-shadow: 2px 2px 4px #f91791;
+	text-shadow: 2px 2px 4px #1771f9;
 }
 .gal_btn4{
 	font-family: 'Abril Fatface', serif;
@@ -2412,7 +2412,7 @@ span3:hover{
 }
 .pop4 > h6 {
 	padding:50px 30px 20px 30px;
-	color: #f91791;
+	color: #1771f9;
 	font-size:50px;
 }
 
@@ -2435,14 +2435,14 @@ span3:hover{
 	-webkit-border-radius:100px;
 	-moz-border-radius:100px;
 	border-radius:100px;
-	color: #f91791;
+	color: #1771f9;
 	padding:6px 0px 0px 9px;
 	width:30px;
 	height:30px;
 }
 span4:hover{
 	color: yellow;
-	text-shadow: 2px 2px 4px #f91791;
+	text-shadow: 2px 2px 4px #1771f9;
 }
 .gal_btn5{
 	font-family: 'Abril Fatface', serif;
@@ -2509,7 +2509,7 @@ span4:hover{
 }
 .pop5 > h6 {
 	padding:50px 30px 20px 30px;
-	color: #f91791;
+	color: #1771f9;
 	font-size:50px;
 }
 
@@ -2531,7 +2531,7 @@ span4:hover{
 	-webkit-border-radius:100px;
 	-moz-border-radius:100px;
 	border-radius:100px;
-	color: #f91791;
+	color: #1771f9;
 	padding:6px 0px 0px 9px;
 	width:30px;
 	height:30px;
@@ -2539,7 +2539,7 @@ span4:hover{
 
 span5:hover{
 	color: yellow;
-	text-shadow: 2px 2px 4px #f91791;
+	text-shadow: 2px 2px 4px #1771f9;
 }
 
 .gal_btn6{
@@ -2606,7 +2606,7 @@ span5:hover{
 }
 .pop6 > h6 {
 	padding:50px 30px 20px 30px;
-	color: #f91791;
+	color: #1771f9;
 	font-size:50px;
 }
 
@@ -2628,7 +2628,7 @@ span5:hover{
 	-webkit-border-radius:100px;
 	-moz-border-radius:100px;
 	border-radius:100px;
-	color: #f91791;
+	color: #1771f9;
 	padding:6px 0px 0px 9px;
 	width:30px;
 	height:30px;
@@ -2636,7 +2636,7 @@ span5:hover{
 
 span6:hover{
 	color: yellow;
-	text-shadow: 2px 2px 4px #f91791;
+	text-shadow: 2px 2px 4px #1771f9;
 }
 
 #resume {
@@ -2661,7 +2661,7 @@ span6:hover{
 	padding: 0 0 20px;
 }
 #resume .resume .client-info {
-	color: #f91791;
+	color: #1771f9;
 	font-size: 17px;
 }*/
 /*#resume .tech{
@@ -2693,7 +2693,7 @@ weight:25px;
 
 #resume .tech a i:hover {
 	background-color: #fff;
-	color: #f91791;
+	color: #1771f9;
 }
 
 #resume .copy {
@@ -2702,7 +2702,7 @@ weight:25px;
 
 
 #contactMe {
-	background-color: #f91791;
+	background-color: #1771f9;
 	text-align: center;
 	padding: 100px 0 120px 0;
 	position: relative;
@@ -2719,11 +2719,11 @@ weight:25px;
 	content: "";
 	top: -46px;
 	left: 0;
-	background: #f91791;
+	background: #1771f9;
 	position: absolute;
 }
 #resume .title h2:after {
-	background-color: #f91791;
+	background-color: #1771f9;
 }
 
 #contactMe h2 {
@@ -2741,7 +2741,7 @@ weight:25px;
 }
 
 #contactMe .button:hover {
-	color: #f91791;
+	color: #1771f9;
 	background: #fff;
 	-moz-transition: all 0.25s ease-in-out;
 	-o-transition: all 0.25s ease-in-out;
@@ -2808,7 +2808,7 @@ weight:25px;
 
 #contactMe .social a i:hover {
 	background-color: #fff;
-	color: #f91791;
+	color: #1771f9;
 }
 
 #contactMe .copy {
